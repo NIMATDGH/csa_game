@@ -1,0 +1,170 @@
+[
+  {
+    "subject": "Math",
+    "difficulty": "Easy",
+    "question": "2 + 2 = ?",
+    "options": ["3", "4", "5"],
+    "answer": "4"
+  },
+  {
+    "subject": "Math",
+    "difficulty": "Medium",
+    "question": "What is the square root of 81?",
+    "options": ["7", "8", "9"],
+    "answer": "9"
+  },
+  {
+    "subject": "Math",
+    "difficulty": "Hard",
+    "question": "Derivative of x^2?",
+    "options": ["x", "2x", "x^2"],
+    "answer": "2x"
+  },
+  {
+    "subject": "Math",
+    "difficulty": "Extreme",
+    "question": "Integral of 1/x dx = ?",
+    "options": ["ln|x| + C", "1/x + C", "x + C"],
+    "answer": "ln|x| + C"
+  },
+  {
+    "subject": "Science",
+    "difficulty": "Easy",
+    "question": "Water's chemical formula?",
+    "options": ["H2O", "CO2", "NaCl"],
+    "answer": "H2O"
+  },
+  {
+    "subject": "Science",
+    "difficulty": "Medium",
+    "question": "Planet known as the Red Planet?",
+    "options": ["Mars", "Jupiter", "Venus"],
+    "answer": "Mars"
+  },
+  {
+    "subject": "Science",
+    "difficulty": "Hard",
+    "question": "Speed of light (approx) in km/s?",
+    "options": ["150,000", "300,000", "450,000"],
+    "answer": "300,000"
+  },
+  {
+    "subject": "Science",
+    "difficulty": "Extreme",
+    "question": "Smallest particle of an element retaining its properties?",
+    "options": ["Electron", "Atom", "Molecule"],
+    "answer": "Atom"
+  },
+  {
+    "subject": "History",
+    "difficulty": "Easy",
+    "question": "Who discovered America?",
+    "options": ["Christopher Columbus", "George Washington", "Napoleon"],
+    "answer": "Christopher Columbus"
+  },
+  {
+    "subject": "History",
+    "difficulty": "Medium",
+    "question": "Year World War II ended?",
+    "options": ["1943", "1945", "1950"],
+    "answer": "1945"
+  },
+  {
+    "subject": "History",
+    "difficulty": "Hard",
+    "question": "First emperor of Rome?",
+    "options": ["Julius Caesar", "Augustus", "Nero"],
+    "answer": "Augustus"
+  },
+  {
+    "subject": "History",
+    "difficulty": "Extreme",
+    "question": "Dynasty that built most of the Great Wall?",
+    "options": ["Han", "Ming", "Qin"],
+    "answer": "Ming"
+  },
+  {
+    "subject": "Sports",
+    "difficulty": "Easy",
+    "question": "Number of players on a soccer team on field?",
+    "options": ["9", "11", "12"],
+    "answer": "11"
+  },
+  {
+    "subject": "Sports",
+    "difficulty": "Medium",
+    "question": "NBA team based in Los Angeles?",
+    "options": ["Lakers", "Heat", "Celtics"],
+    "answer": "Lakers"
+  },
+  {
+    "subject": "Sports",
+    "difficulty": "Hard",
+    "question": "Grand Slam tennis tournaments per year?",
+    "options": ["2", "3", "4"],
+    "answer": "4"
+  },
+  {
+    "subject": "Sports",
+    "difficulty": "Extreme",
+    "question": "Country that won the first FIFA World Cup?",
+    "options": ["Brazil", "Uruguay", "Italy"],
+    "answer": "Uruguay"
+  },
+  {
+    "subject": "Geography",
+    "difficulty": "Easy",
+    "question": "Capital of France?",
+    "options": ["Paris", "Berlin", "Madrid"],
+    "answer": "Paris"
+  },
+  {
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Longest river in the world?",
+    "options": ["Amazon", "Nile", "Yangtze"],
+    "answer": "Nile"
+  },
+  {
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Highest mountain peak?",
+    "options": ["K2", "Kangchenjunga", "Everest"],
+    "answer": "Everest"
+  },
+  {
+    "subject": "Geography",
+    "difficulty": "Extreme",
+    "question": "Desert covering much of northern Africa?",
+    "options": ["Sahara", "Gobi", "Kalahari"],
+    "answer": "Sahara"
+  },
+  {
+    "subject": "Technology",
+    "difficulty": "Easy",
+    "question": "What does CPU stand for?",
+    "options": ["Central Processing Unit", "Computer Personal Unit", "Central Personal Unit"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "subject": "Technology",
+    "difficulty": "Medium",
+    "question": "Main language for styling web pages?",
+    "options": ["HTML", "JavaScript", "CSS"],
+    "answer": "CSS"
+  },
+  {
+    "subject": "Technology",
+    "difficulty": "Hard",
+    "question": "What does API stand for?",
+    "options": ["Application Programming Interface", "Applied Program Internet", "Application Program Input"],
+    "answer": "Application Programming Interface"
+  },
+  {
+    "subject": "Technology",
+    "difficulty": "Extreme",
+    "question": "Year the first iPhone was released?",
+    "options": ["2005", "2007", "2009"],
+    "answer": "2007"
+  }
+]
