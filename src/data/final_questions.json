@@ -1,0 +1,44 @@
+[
+  {
+    "subject": "Math",
+    "difficulty": "Hard",
+    "question": "What is the determinant of [[1,2],[3,4]]?",
+    "options": ["-2", "2", "4"],
+    "answer": "-2"
+  },
+  {
+    "subject": "Science",
+    "difficulty": "Extreme",
+    "question": "What particle carries the strong nuclear force?",
+    "options": ["Photon", "Gluon", "Neutrino"],
+    "answer": "Gluon"
+  },
+  {
+    "subject": "History",
+    "difficulty": "Hard",
+    "question": "Who was the first female Prime Minister of the UK?",
+    "options": ["Margaret Thatcher", "Theresa May", "Indira Gandhi"],
+    "answer": "Margaret Thatcher"
+  },
+  {
+    "subject": "Geography",
+    "difficulty": "Extreme",
+    "question": "Which country has the most natural lakes?",
+    "options": ["Canada", "Finland", "Russia"],
+    "answer": "Canada"
+  },
+  {
+    "subject": "Technology",
+    "difficulty": "Hard",
+    "question": "Who coined Moore's Law?",
+    "options": ["Gordon Moore", "Bill Gates", "Alan Turing"],
+    "answer": "Gordon Moore"
+  },
+  {
+    "subject": "Sports",
+    "difficulty": "Extreme",
+    "question": "How many gold medals did Usain Bolt win in the Olympics?",
+    "options": ["6", "8", "9"],
+    "answer": "8"
+  }
+]
